@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Vish Shrimali<br><br>🎯 Aspiring Data Analyst | MCA Graduate  <br>📊 Skilled in Python, SQL, and Tableau  <br><br>I’m passionate about turning raw data into meaningful insights that support better decision-making. I enjoy building dashboards, analyzing datasets, and solving real-world problems using data.<br><br>🚀 Currently focusing on:<br>- Data Analysis Projects<br>- Dashboard Development<br>- Improving problem-solving skills<br><br>📌 Tools & Technologies:<br>Python | SQL | Tableau | Excel | Pandas | Matplotlib<br>
+## 👋 Hi, I'm Vraj Shrimali<br><br>🎯 Aspiring Data Analyst | MCA Graduate  <br>📊 Skilled in Python, SQL, and Tableau  <br><br>I’m passionate about turning raw data into meaningful insights that support better decision-making. I enjoy building dashboards, analyzing datasets, and solving real-world problems using data.<br><br>🚀 Currently focusing on:<br>- Data Analysis Projects<br>- Dashboard Development<br>- Improving problem-solving skills<br><br>📌 Tools & Technologies:<br>Python | SQL | Tableau | Excel | Pandas | Matplotlib<br>
 
 
 ## 🌐 Socials:
